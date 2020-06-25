@@ -281,7 +281,7 @@ li {
 		align-items: center;
 	}
 
-	#reverse {
+	.reverse {
 		flex-direction: row-reverse;
 	}
 
@@ -323,17 +323,17 @@ li {
 		margin: 10px;
 	}
 
-	#flex-2 {
+	.flex-2 {
 		flex: 1;
 		margin: 10px;
 	}
 
-	#flex-3 {
+	.flex-3 {
 		flex: 1;
 		margin: 10px;
 	}
 
-	#flex-4 {
+	.flex-4 {
 		flex: 1;
 		align-items: flex-start;
 		margin: 10px;
@@ -341,7 +341,7 @@ li {
 
 	.icons-positions {
 		justify-content: flex-start;
-		align-items: center;
+		align-items: flex-start;
 	}
 
 	li {
