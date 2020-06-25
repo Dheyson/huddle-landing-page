@@ -233,8 +233,12 @@ li {
 	}
 
 	.header__image {
-		width: 150px;
+		width: 200px;
 		height: auto;
+	}
+
+	.header__button {
+		padding: 15px 40px 15px 40px;
 	}
 
 	.lead {
@@ -252,6 +256,7 @@ li {
 	.lead__header {
 		font-size: 32px;
 		line-height: 42px;
+		width: 80%;
 	}
 
 	.lead__paragraph {
